@@ -1,6 +1,6 @@
 {
   "name": "mysqlpack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mysql package for easy integration of mysql with node.js",
   "main": "index.js",
   "scripts": {
